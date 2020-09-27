@@ -1,1 +1,1 @@
-# friends_ps4
+# https://t.me/friends_ps4_bot
